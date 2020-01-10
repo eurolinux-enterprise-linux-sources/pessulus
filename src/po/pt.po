@@ -1,0 +1,158 @@
+# pessulus' Portuguese translation.
+# Copyright © 2006, 2007, 2009 pessulus
+# This file is distributed under the same license as the pessulus package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2006, 2007, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.28\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-23 08:48+0100\n"
+"PO-Revision-Date: 2009-08-23 08:50+0000\n"
+"Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
+"Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/pessulus.desktop.in.in.h:1
+msgid "Configure the lockdown policy"
+msgstr "Configurar a política de trancar"
+
+#: ../data/pessulus.desktop.in.in.h:2 ../data/pessulus.ui.h:3
+#: ../Pessulus/main.py:54
+msgid "Lockdown Editor"
+msgstr "Editor de Restrições"
+
+#: ../data/pessulus.ui.h:1
+msgid "Disable _unsafe protocols"
+msgstr "Desactivar protocolos _inseguros"
+
+#: ../data/pessulus.ui.h:2
+msgid "Disabled Applets"
+msgstr "Applets Desactivadas"
+
+#: ../data/pessulus.ui.h:4
+msgid "Safe Protocols"
+msgstr "Protocolos Seguros"
+
+#: ../Pessulus/lockdownbutton.py:100
+msgid "Click to make this setting not mandatory"
+msgstr "Clicar para tornar esta definição opcional"
+
+#: ../Pessulus/lockdownbutton.py:102
+msgid "Click to make this setting mandatory"
+msgstr "Clicar para tornar esta definição obrigatória"
+
+#: ../Pessulus/maindialog.py:40
+msgid "General"
+msgstr "Geral"
+
+#: ../Pessulus/maindialog.py:41
+msgid "Panel"
+msgstr "Painel"
+
+#: ../Pessulus/maindialog.py:42
+msgid "Epiphany Web Browser"
+msgstr "Navegador Web Epiphany"
+
+#: ../Pessulus/maindialog.py:43
+msgid "GNOME Screensaver"
+msgstr "Protector de Ecrã GNOME"
+
+#: ../Pessulus/maindialog.py:53
+msgid "Disable _command line"
+msgstr "Desactivar a linha de _comando"
+
+#: ../Pessulus/maindialog.py:54
+msgid "Disable _printing"
+msgstr "Desactivar a im_pressão"
+
+#: ../Pessulus/maindialog.py:55
+msgid "Disable print _setup"
+msgstr "Desactivar a _configuração de impressora"
+
+#: ../Pessulus/maindialog.py:56
+msgid "Disable save to _disk"
+msgstr "Desactivar a gravação de ficheiros em _disco"
+
+#: ../Pessulus/maindialog.py:58
+msgid "_Lock down the panels"
+msgstr "_Trancar os painéis"
+
+#: ../Pessulus/maindialog.py:59
+msgid "Disable force _quit"
+msgstr "Desactivar a saída _forçada"
+
+#: ../Pessulus/maindialog.py:60
+msgid "Disable log _out"
+msgstr "Desactivar o terminar _sessão"
+
+#: ../Pessulus/maindialog.py:62
+msgid "Disable _quit"
+msgstr "Desactivar o _sair"
+
+#: ../Pessulus/maindialog.py:63
+msgid "Disable _arbitrary URL"
+msgstr "Desactivar URLs _arbitrários"
+
+#: ../Pessulus/maindialog.py:64
+msgid "Disable _bookmark editing"
+msgstr "Desactivar a edição de _marcadores"
+
+#: ../Pessulus/maindialog.py:65
+msgid "Disable _history"
+msgstr "Desactivar o _histórico"
+
+#: ../Pessulus/maindialog.py:66
+msgid "Disable _javascript chrome"
+msgstr "Desactivar controlo de cor _javascript"
+
+#: ../Pessulus/maindialog.py:67
+msgid "Disable _toolbar editing"
+msgstr "Desactivar a edição da barra de ferramen_tas"
+
+#: ../Pessulus/maindialog.py:68
+msgid "Force _fullscreen mode"
+msgstr "Forçar o modo de _ecrã completo"
+
+#: ../Pessulus/maindialog.py:69
+msgid "Hide _menubar"
+msgstr "Esconder a barra de _menu"
+
+#: ../Pessulus/maindialog.py:71
+msgid "Disable lock _screen"
+msgstr "Desactivar o trancar de _ecrã"
+
+#: ../Pessulus/maindialog.py:72
+msgid "_Lock on activation"
+msgstr "_Trancar ao activar"
+
+#: ../Pessulus/maindialog.py:73
+msgid "Allow log _out"
+msgstr "Permitir _terminar sessão"
+
+#: ../Pessulus/maindialog.py:74
+msgid "Allow user _switching"
+msgstr "Permitir trocar de _utilizador"
+
+#: ../Pessulus/maindialog.py:233
+#, python-format
+msgid "Could not display help document '%s'"
+msgstr "Incapaz de apresentar o documento de ajuda '%s'"
+
+#: ../Pessulus/main.py:49
+msgid "Cannot contact the GConf server"
+msgstr "Incapaz de contactar o servidor GConf"
+
+#: ../Pessulus/main.py:50
+msgid ""
+"This usually happens when running this application with 'su' instead of 'su "
+"-'.\n"
+"If this is not the case, you can look at the output of the application to "
+"get more details."
+msgstr ""
+"Normalmente tal acontece ao executar esta aplicação com 'su' em vez de 'su "
+"-'.\n"
+"Se não for o caso, deverá consultar o resultado da aplicação para obter mais "
+"detalhes."

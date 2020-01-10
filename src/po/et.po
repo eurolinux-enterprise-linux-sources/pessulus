@@ -1,0 +1,128 @@
+# Pessuluse eesti keele tõlge.
+# Estonian translation of Pessulus.
+#
+# Copyright (C) 2006, 2009 The Gnome Project.
+# This file is distributed under the same license as the pessulus package.
+#
+# Ivar Smolin <okul@linux.ee>, 2006, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pessulus HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=pessulus&component=general\n"
+"POT-Creation-Date: 2009-08-11 15:18+0000\n"
+"PO-Revision-Date: 2009-08-12 08:39+0300\n"
+"Last-Translator: Ivar Smolin <okul@linux.ee>\n"
+"Language-Team: Estonian <gnome-et@linux.ee>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configure the lockdown policy"
+msgstr "Lukustusreeglite määramine"
+
+msgid "Lockdown Editor"
+msgstr "Lukustuste redaktor"
+
+msgid "Disable _unsafe protocols"
+msgstr "_Ohtlikud protokollid on keelatud"
+
+msgid "Disabled Applets"
+msgstr "Keelatud rakendid"
+
+msgid "Safe Protocols"
+msgstr "Ohutud protokollid"
+
+msgid "Click to make this setting not mandatory"
+msgstr "Selle sätte mittekohustuslikuks muutmiseks klõpsa siia"
+
+msgid "Click to make this setting mandatory"
+msgstr "Selle sätte kohustuslikuks muutmiseks klõpsa siia"
+
+msgid "General"
+msgstr "Üldine"
+
+msgid "Panel"
+msgstr "Paneel"
+
+msgid "Epiphany Web Browser"
+msgstr "Epiphany veebisirvija"
+
+msgid "GNOME Screensaver"
+msgstr "GNOME ekraanisäästja"
+
+msgid "Disable _command line"
+msgstr "Käsu_rida on keelatud"
+
+msgid "Disable _printing"
+msgstr "_Printimine on keelatud"
+
+msgid "Disable print _setup"
+msgstr "Printerisä_tted on keelatud"
+
+msgid "Disable save to _disk"
+msgstr "_Kettale salvestamine on keelatud"
+
+msgid "_Lock down the panels"
+msgstr "Paneelid on _lukus"
+
+msgid "Disable force _quit"
+msgstr "_Jõuga sulgemine on keelatud"
+
+msgid "Disable lock _screen"
+msgstr "_Ekraani lukustamine on keelatud"
+
+msgid "Disable log _out"
+msgstr "_Väljalogimine on keelatud"
+
+msgid "Disable _quit"
+msgstr "_Lõpetamine on keelatud"
+
+msgid "Disable _arbitrary URL"
+msgstr "_Juhuslik URL on keelatud"
+
+msgid "Disable _bookmark editing"
+msgstr "_Järjehoidjate redigeerimine on keelatud"
+
+msgid "Disable _history"
+msgstr "Ajalu_gu on keelatud"
+
+msgid "Disable _javascript chrome"
+msgstr "_Javascript chrome on keelatud"
+
+msgid "Disable _toolbar editing"
+msgstr "_Tööriistariba redigeerimine keelatud"
+
+msgid "Force _fullscreen mode"
+msgstr "_Täisekraanivaate pealesurumine"
+
+msgid "Hide _menubar"
+msgstr "_Menüüriba on peidus"
+
+msgid "_Lock on activation"
+msgstr "_Lukustatakse aktiveerimisel"
+
+msgid "Allow log _out"
+msgstr "_Väljalogimine lubatud"
+
+msgid "Allow user _switching"
+msgstr "Kasutajate vahel _lülitumine lubatud"
+
+#, python-format
+msgid "Could not display help document '%s'"
+msgstr "Abidokumenti '%s' pole võimalik kuvada"
+
+msgid "Cannot contact the GConf server"
+msgstr "GConf-serveriga pole võimalik ühenduda"
+
+msgid ""
+"This usually happens when running this application with 'su' instead of 'su "
+"-'.\n"
+"If this is not the case, you can look at the output of the application to "
+"get more details."
+msgstr ""
+"See juhtub tavaliselt siis, kui seda rakendust käivitatakse käsu 'su -' "
+"asemel käsuga 'su'.\n"
+"Kui viga on milleski muus, siis tasub üksikasjade täpsustamiseks uurida "
+"rakenduse väljundit."

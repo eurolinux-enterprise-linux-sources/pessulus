@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+_Name=Lockdown Editor
+_Comment=Configure the lockdown policy
+Icon=pessulus
+Exec=pessulus
+StartupNotify=true
+Terminal=false
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=pessulus
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=2.28.0
+Categories=GNOME;GTK;System;Settings;
+OnlyShowIn=GNOME;

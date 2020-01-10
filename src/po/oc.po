@@ -1,0 +1,138 @@
+# Translation of oc.po to Occitan
+# Occitan translation of pessulus.
+# Copyright (C) 2005-2006, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the pessulus package.
+#
+# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2006-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: oc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-09 15:21+0200\n"
+"PO-Revision-Date: 2008-03-16 09:57+0100\n"
+"Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
+"Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../data/pessulus.desktop.in.in.h:1
+msgid "Configure the lockdown policy"
+msgstr "Configurar la politica de varrolhatge"
+
+#: ../data/pessulus.desktop.in.in.h:2 ../data/pessulus.glade.h:4
+msgid "Lockdown Editor"
+msgstr "Editor de varrolhs"
+
+#: ../data/pessulus.glade.h:1
+msgid "<b>Disabled Applets</b>"
+msgstr "<b>Ajustons desactivats</b>"
+
+#: ../data/pessulus.glade.h:2
+msgid "<b>Safe Protocols</b>"
+msgstr "<b>Protocòls segurs</b>"
+
+#: ../data/pessulus.glade.h:3
+msgid "Disable _unsafe protocols"
+msgstr "Desactivar los protocòls _pas segurs"
+
+#: ../Pessulus/lockdownbutton.py:97
+msgid "Click to make this setting not mandatory"
+msgstr "Clicar per far aqueste paramètre pas obligatòri"
+
+#: ../Pessulus/lockdownbutton.py:99
+msgid "Click to make this setting mandatory"
+msgstr "Clicar per far aqueste paramètre obligatòri"
+
+#: ../Pessulus/maindialog.py:41
+msgid "General"
+msgstr "General"
+
+#: ../Pessulus/maindialog.py:42
+msgid "Panel"
+msgstr "Panèl"
+
+#: ../Pessulus/maindialog.py:43
+msgid "Epiphany Web Browser"
+msgstr "Navegador Epiphany"
+
+#: ../Pessulus/maindialog.py:44
+msgid "GNOME Screensaver"
+msgstr "Estalviaire d'ecran GNOME"
+
+#: ../Pessulus/maindialog.py:54
+msgid "Disable _command line"
+msgstr "Desactivar la linha de _comandas"
+
+#: ../Pessulus/maindialog.py:55
+msgid "Disable _printing"
+msgstr "Desactivar l'_estampatge"
+
+#: ../Pessulus/maindialog.py:56
+msgid "Disable print _setup"
+msgstr "Desactivar la _configuracion de l'estampaira"
+
+#: ../Pessulus/maindialog.py:57
+msgid "Disable save to _disk"
+msgstr "Desactivar l'enregistrament sul _disc"
+
+#: ../Pessulus/maindialog.py:59
+msgid "_Lock down the panels"
+msgstr "_Varrolhar los panèls"
+
+#: ../Pessulus/maindialog.py:60
+msgid "Disable force _quit"
+msgstr "Desactivar \"forçar la _sortida\""
+
+#: ../Pessulus/maindialog.py:61
+msgid "Disable lock _screen"
+msgstr "Desactivar lo varrolhatge de l'_ecran"
+
+#: ../Pessulus/maindialog.py:62
+msgid "Disable log _out"
+msgstr "Desactivar la _desconnexion de la sesilha"
+
+#: ../Pessulus/maindialog.py:64
+msgid "Disable _quit"
+msgstr "Desactivar la _tampadura del programa"
+
+#: ../Pessulus/maindialog.py:65
+msgid "Disable _arbitrary URL"
+msgstr "Desactivar las URL _arbitràrias"
+
+#: ../Pessulus/maindialog.py:66
+msgid "Disable _bookmark editing"
+msgstr "Desactivar la modificacion del _favorit"
+
+#: ../Pessulus/maindialog.py:67
+msgid "Disable _history"
+msgstr "Desactivar l'_istoric"
+
+#: ../Pessulus/maindialog.py:68
+msgid "Disable _javascript chrome"
+msgstr "Desactivar _javascript chrome"
+
+#: ../Pessulus/maindialog.py:69
+msgid "Disable _toolbar editing"
+msgstr "Desactivar la modificacion de la barra d'_espleches"
+
+#: ../Pessulus/maindialog.py:70
+msgid "Force _fullscreen mode"
+msgstr "Forçar lo mòde ecran _complet"
+
+#: ../Pessulus/maindialog.py:71
+msgid "Hide _menubar"
+msgstr "Amagar la barra de _menuts"
+
+#: ../Pessulus/maindialog.py:72
+msgid "_Lock on activation"
+msgstr "_Varrolhar quand s'activa"
+
+#: ../Pessulus/maindialog.py:73
+msgid "Allow log _out"
+msgstr "Permetre la _tampadura de sesilha"
+
+#: ../Pessulus/maindialog.py:74
+msgid "Allow user _switching"
+msgstr "Permetre lo _cambi d'utilizaire"

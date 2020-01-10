@@ -1,0 +1,552 @@
+==============
+Version 2.28.0
+==============
+
+  Translators
+
+	* Saad M Niamatullah (bn)
+	* Lucas Lommer (cs)
+	* Kenneth Nielsen (da)
+	* nikosCharonitakis (el)
+	* Philip Withnall (en_GB)
+	* Musthaqim (id)
+	* Gianvito Cavasoli (it)
+	* Rajesh Ranjan (mai)
+	* Nils-Christoph Fiedler (nds)
+	* A S Alam (pa)
+	* lucian (ro)
+	* Matej Urbančič (sl)
+	* Горан Ракић (sr)
+	* Goran Rakić (sr@latin)
+	* Maxim Dzumanenko (uk)
+	* Hinker (zh_CN)
+
+===============
+Version 2.27.92
+===============
+
+
+  Translators
+
+	* Amitakhya Phukan (as)
+	* Alexander Nyakhaychyk (be)
+	* Runa Bhattacharjee (bn_IN)
+	* denis (br)
+	* Christian Kirbach (de)
+	* Iñaki Larrañaga Murgoitio (eu)
+	* Mark Krapivner (he)
+	* Rajesh Ranjan (hi)
+	* Gabor Kelemen (hu)
+	* Peter Ani (ml)
+	* Sandeep Shedmake (mr)
+	* Tomasz Dominikowski (pl)
+	* Krishna Babu K (te)
+
+===============
+Version 2.27.91
+===============
+
+  Fixes
+
+	* Stop using deprecated GtkTooltips API (Vincent)
+	* Use icon-name attribute for gtk.CellRendererPixbuf (Vincent)
+	* Port to GtkBuilder (Vincent)
+	* Update to use the right key for disable_lock_screen (Vincent)
+	* Remove deprecated Encoding key from desktop file (Frédéric Péters)
+
+  Translators
+
+	* Khaled Hosny (ar)
+	* Mikel González (ast)
+	* Alexander Shopov (bg)
+	* josep (ca)
+	* Petr Kovar (cs)
+	* Iestyn Pryce (cy)
+	* Jorge González (es)
+	* Ivar Smolin (et)
+	* Iñaki Larrañaga Murgoitio (eu)
+	* Tommi Vainikainen (fi)
+	* Claude Paroz (fr)
+	* Antón Méixome (gl)
+	* Sweta Kothari (gu)
+	* Shankar Prasad (kn)
+	* Kjartan Maraas (nb)
+	* Manoj Kumar Giri (or)
+	* Duarte Loreto (pt)
+	* Fabrício Godoy (pt_BR)
+	* Laurent Dhima (sq)
+	* Daniel Nylander (sv)
+	* I. Felix (ta)
+	* Theppitak Karoonboonyanan (th)
+	* Baris Cicek (tr)
+	* fujianwzh (zh_CN)
+	* Chao-Hsiung Liao (zh_HK)
+	* Chao-Hsiung Liao (zh_TW)
+
+pessulus 2.27.5
+===============
+
+  Fixes
+
+	* Use gtk.show_uri() and do not crash if yelp is not present (Vincent)
+
+  Misc
+
+	* Use silent-rules with automake 1.11 (Vincent)
+	* Do not require gnome-python anymore (Vincent)
+
+  Translations
+
+	* Khaled Hosny (ar)
+	* Alexander Nyakhaychyk (be)
+	* Iestyn Pryce (cy)
+	* wanderlust (uk)
+
+pessulus 2.26.2
+===============
+
+  Translations
+
+	* josep (ca@valencia)
+	* Socrates Vavilis (el)
+	* Shankar Prasad (kn)
+	* Zabeeh Khan (ps)
+	* Marcel Telka (sk)
+
+pessulus 2.26.1
+===============
+
+  Translations
+
+	* Khaled Hosny (ar)
+	* Danishka Navin (si)
+	* Krishna Babu K (te)
+	* Ray Wang (zh_CN)
+
+pessulus 2.26.0
+===============
+
+  Translations
+
+        * Amitakhya Phukan (as)
+        * Runa Bhattacharjee (bn_IN)
+        * Reşat SABIQ (crh)
+        * Petr Kovar (cs)
+        * Jennie Petoumenou (el)
+        * Ivar Smolin (et)
+        * Suso Baleato (gl)
+        * Ankit Patel (gu)
+        * Yaron Shahrabani (he)
+        * Rajesh Ranjan (hi)
+        * Flavia Weisghizzi (it)
+        * Takeshi AIHANA (ja)
+        * Shankar Prasad (kn)
+        * Sandeep Shedmake (mr)
+
+pessulus 2.25.92
+================
+
+  Fixes
+
+	* Handle the case where pessulus fails under "su" because gconf doesn't
+	  work (you now need to use "su -" because of its dbus usage) (Vincent)
+
+  Translations
+
+        * Khaled Hosny (ar)
+        * Alexander Shopov (bg)
+        * josep (ca)
+        * Kenneth Nielsen (da)
+        * Christian Kirbach (de)
+        * David Lodge (en_GB)
+        * Jorge González (es)
+        * Iñaki Larrañaga Murgoitio (eu)
+        * Ilkka Tuohela (fi)
+        * Claude Paroz (fr)
+        * Gabor Kelemen (hu)
+        * Changwoo Ryu (ko)
+        * Žygimantas Beručka (lt)
+        * Raivis Dejus (lv)
+        * Praveen Arimbrathodiyil (ml)
+        * Kjartan Maraas (nb)
+        * Wouter Bolsterlee (nl)
+        * Manoj Kumar Giri (or)
+        * Tomasz Dominikowski (pl)
+        * Jonh Wendell (pt_BR)
+        * Duarte Loreto (pt)
+        * Adi Roiban (ro)
+        * Leonid Kanter (ru)
+        * Laurent Dhima (sq)
+        * Daniel Nylander (sv)
+        * Dr.T.vasudevan (ta)
+        * Theppitak Karoonboonyanan (th)
+        * Baris Cicek (tr)
+        * Clytie Siddall (vi)
+        * Chao-Hsiung Liao (zh_HK)
+        * Chao-Hsiung Liao (zh_TW)
+
+pessulus 2.24.0
+===============
+
+  Fixes
+
+        * Use correct icon in main window (Vincent Untz)
+        * Use currect icon in screensaver settings. (Vincent Untz)
+        * Install into Python directory. (Tom Callaway)
+
+  Translations
+
+        * Djihed Afifi (ar)
+        * Shankar Prasad (kn)
+        * Praveen Arimbrathodiyil (ml)
+        * Sandeep Shedmake (mr)
+        * Yannig Marchegay (oc)
+        * Zabeeh Khan (ps)
+        * Leonardo Ferreira Fontenelle (pt_BR)
+        * Laurent Dhima (sq)
+        * Goran Rakić (sr)
+        * Adi Roiban (ro)
+
+pessulus 2.23.1
+===============
+
+  Misc
+
+        * New icon from Jakub Steiner.
+        * Use new bugbuddy module from python-gnome-desktop.
+
+  Fixes
+
+        * Fix exception raised when applets have no name and user the best
+          translation where possible. (Vincent Untz)
+
+  Translations
+
+        * Mostafa Daneshvar (bal)
+        * Laurent Dhima (sq)
+        * Yannig Marchegay (oc)
+
+pessulus 2.16.4
+===============
+
+  Misc
+
+	* Remove shebangs from non-executable python files (Josh Triplett)
+
+  Translations
+
+        * Khaled Hosny (ar)
+        * Jorge González (es)
+        * Iñaki Larrañaga Murgoitio (eu)
+        * Stéphane Raimbault (fr)
+        * Luca Ferretti (it)
+        * Mahesh Subedi (ne)
+        * Eskild Hustvedt (nn)
+        * Yannig Marchegay (Kokoyaya) (oc)
+        * Duarte Loreto (pt)
+        * Matej Urbančič (sl)
+        * Y. kiran Chandra (te)
+
+pessulus 2.16.3
+===============
+
+  Misc
+
+	* Update categories in .desktop file (Christian Kirbach)
+
+  Translations
+
+        * Khaled Hosny (ar)
+        * Amitakhya Phukan (as)
+        * Ihar Hrachyshka (be)
+        * Alaksandar Navicki (be@latin)
+        * Alexander Shopov (bg)
+        * Peter Bach (da)
+        * Adam Weinberger (en_CA)
+        * Ilkka Tuohela (fi)
+        * Ignacio Casal Quinteiro (gl)
+        * Erdal Ronahi (ku)
+        * Žygimantas Beručka (lt)
+        * Ani Peter (ml)
+        * Duarte Loreto (pt)
+        * Laurent Dhima (sq)
+        * Felix (ta)
+        * Bharat Kumar (te)
+        * Pham Thanh Long (vi)
+
+pessulus 2.16.2
+===============
+
+  Translations (some present in 2.16.1 but not tracked)
+
+        * Khaled Hosny (ar)
+        * David Lodge (en_GB)
+        * Christophe Merlet (RedFox) (fr)
+        * Artur Flinta (pl)
+
+pessulus 2.16.1
+===============
+
+  Misc
+
+	* Add integration with bug-buddy for crashes.
+
+pessulus 2.16.0
+===============
+
+  Translators
+
+	* Khandakar Mujahidul Islam (bn)
+	* Gabor Kelemen (hu)
+	* Satoru SATOH (ja)
+	* Badral (mn)
+	* Subhransu Behera (or)
+	* Artur Flinta (pl)
+	* Duarte Loreto (pt)
+	* Leonid Kanter (ru)
+	* Deniz Kocak (tr)
+	* Maxim Dzumanenko (uk)
+
+pessulus 2.15.91
+================
+
+  Misc
+
+	* Use the python runtime detected by AM_PATH_PYTHON (Loïc Minier)
+
+  Translators
+
+	* Runa Bhattacharjee (bn_IN)
+	* Iñaki Larrañaga Murgoitio (eu)
+	* Arangel Angov (mk)
+	* Ani Peter (ml)
+	* Matic Žgur (sl)
+
+pessulus 2.15.90
+================
+
+  Misc
+
+	* Switch to the GNOME release numbers :-)
+
+  Translators
+
+	* Hendrik Richter (de)
+	* Francisco Javier F. Serrador (es)
+	* Young-Ho Cha (ko)
+
+pessulus 0.10.4
+===============
+
+  Misc
+
+	* Require intltool 0.35.0 (Vincent)
+
+  Translators
+
+	* Mahay Alam Khan (মাহে আলম খান) (bn_IN)
+	* Mindu Dorji (dz)
+	* Iñaki Larrañaga Murgoitio (eu)
+	* Nevo (he)
+	* Rajesh Ranjan (hi)
+	* Raivis Dejus (lv)
+	* Rahul Bhalerao (mr)
+	* Mahesh Subedi (ne)
+	* Marcel Telka (sk)
+	* Felix (ta)
+	* Chao-Hsiung Liao (zh_HK)
+	* Chao-Hsiung Liao (zh_TW)
+
+pessulus 0.10.1
+===============
+
+  Features
+
+	* New UI that uses a treeview to select the current page (Rob Bradford,
+	  Vincent)
+
+  Fixes
+
+	* Open the new help with the help button (not for Sabayon) (Vincent)
+	* Mark name and comment of the .desktop file as translatable (Vincent)
+	* Remove line feeds and extra spacing from tooltips generated from the
+	  schemas (Dennis Cranston)
+	* Do not set initial visibility of dialog to true, so the dialog will
+	  open centered properly (Dennis Cranston)
+	* HIG fixes (Dennis Cranston)
+	* Use po/LINGUAS (Brian Pepple)
+
+  Translators
+
+	* Alexander Shopov (bg)
+	* josep (ca)
+	* Lukáš Novotný (cs)
+	* Rhys Jones (cy)
+	* Kostas Papadimas (el)
+	* Francisco Javier F. Serrador (es)
+	* Ivar Smolin (et)
+	* Ilkka Tuohela (fi)
+	* Laurent Richard (fr)
+	* Ignacio Casal Quinteiro (gl)
+	* Ankit Patel (gu)
+	* G Karunakar (hi)
+	* Gabor Kelemen (hu)
+	* Vladimer Sichinava (ka)
+	* Žygimantas Beručka (lt)
+	* Kjartan Maraas (nb)
+	* Tino Meinen (nl)
+	* Guilherme de S. Pastore (pt_BR)
+	* Laurent Dhima (sq)
+	* Daniel Nylander (sv)
+	* Theppitak Karoonboonyanan (th)
+	* Clytie Siddall (vi)
+	* Funda Wang (zh_CN)
+
+pessulus 0.9
+============
+
+  Translators
+
+	* Mahay Alam Khan (মাহে আলম খান) (bn)
+	* Petr Tomeš (cs)
+	* David Nielsen (da)
+	* Hendrik Richter (de)
+	* Ivar Smolin (et)
+	* Laurent Richard (fr)
+	* ahmad riza h nst (id)
+	* Giacomo Margarito (it)
+	* Duarte Loreto (pt)
+	* Daniel Nylander (sv)
+	* Maxim Dzumanenko (uk)
+
+pessulus 0.8
+============
+
+  Translators
+
+	* josep (ca)
+	* Kostas Papadimas (el)
+	* Ivar Smolin (et)
+	* Iñaki Larrañaga (eu)
+	* Gabor Kelemen (hu)
+	* Satoru SATOH (ja)
+	* Žygimantas Beručka (lt)
+	* Kjartan Maraas (nb)
+	* Guilherme de S. Pastore (pt_BR)
+	* Leonid Kanter (ru)
+
+pessulus 0.7
+============
+
+  Translators
+
+	* Hendrik Brandt (de)
+	* Kostas Papadimas (el)
+	* Francisco Javier F. Serrador (es)
+	* Ivar Smolin (et)
+	* Vincent Untz (fr)
+	* Laurent Dhima (sq)
+	* Слободан Д. Средојевић (sr)
+	* Theppitak Karoonboonyanan (th)
+	* Chao-Hsiung Liao (zh_HK)
+	* Chao-Hsiung Liao (zh_TW)
+
+pessulus 0.6
+============
+
+  Translators
+
+	* Alexander Shopov (bg)
+	* Lukas Novotny (cs)
+	* Adam Weinberger (en_CA)
+	* Francisco Javier F. Serrador (es)
+	* Ilkka Tuohela (fi)
+	* Ignacio Casal Quinteiro (gl)
+	* Ankit Patel (gu)
+	* Tino Meinen (nl)
+	* Clytie Siddall (vi)
+	* Funda Wang (zh_CN)
+
+pessulus 0.5
+============
+
+  Features
+
+	* Add lockdown for some gnome-screensaver settings (Vincent)
+
+  Fixes
+
+	* Use a better string for the fullscreen epiphany key (Vincent)
+
+  Translators
+
+	* Vincent Untz (fr)
+	* Слободан Д. Средојевић (sr)
+
+pessulus 0.4
+============
+
+  Fixes
+
+	* Build fix (Vincent)
+
+  Translators
+
+	* josep (ca)
+	* Clytie Siddall (vi)
+
+pessulus 0.3
+============
+
+  Fixes
+
+	* HIG fixes (Dennis Cranston)
+
+  Translators
+
+	* Alexander Shopov (bg)
+	* josep (ca)
+	* Ilkka Tuohela (fi)
+	* Ignacio Casal Quinteiro (gl)
+	* Ankit Patel (gu)
+	* Gabor Kelemen (hu)
+	* Takeshi AIHANA (ja)
+	* Žygimantas Beručka (lt)
+	* Kjartan Maraas (nb)
+	* Wouter Bolsterlee (nl)
+	* Amanpreet Singh Alam (pa)
+	* Marcel Telka (sk)
+	* Christian Rose (sv)
+	* Theppitak Karoonboonyanan (th)
+	* Funda Wang (zh_CN)
+
+pessulus 0.2
+============
+
+  Features
+
+	* simplify the "safe protocols" edition (Vincent)
+	* new UI for fine-grained lockdown
+	* integration with sabayon (Vincent, Alexander Larsson)
+
+  Fixes
+
+	* set sensitivity of the "safe protocols" widgets at startup (Vincent)
+	* HIG fixes (Dennis Cranston)
+	* works with python 2.3 (Benoît Dejean)
+	* rename Web Browser tab to Epiphany Web Browser (Vincent)
+	* code fixes (Vincent)
+
+  Translators
+
+	* Adam Weinberger (en_CA)
+	* Francisco Javier F. Serrador (es)
+	* Takeshi AIHANA (ja)
+	* Guilherme de S. Pastore (pt_BR)
+	* Данило Шеган (sr)
+	* Funda Wang (zh_CN)
+
+pessulus 0.1
+============
+
+This is the first release of pessulus.

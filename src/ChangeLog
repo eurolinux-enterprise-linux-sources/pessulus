@@ -1,0 +1,899 @@
+commit e5a923a5dd54a05ef0afe1d936fb7adf9bd9cb5f
+Author: Nikos Charonitakis <nikosx@gmail.com>
+Date:   2009-09-21
+
+    Updated Greek translation
+
+M	po/el.po
+
+commit c8b1c70ccfc2babff6709cd5bf6073bd57568b2a
+Author: Lucas Lommer <llommer@svn.gnome.org>
+Date:	2009-09-21
+
+    Update Czech translation
+
+M	po/cs.po
+
+commit c9b2ab3ec972dd1a6871038bedbef2c400afb026
+Author: Mohammad Anwari <mdamt@mnots.eu>
+Date:	2009-09-21
+
+    Updated Indonesian translation, contributed by Imam Musthaqim
+
+M	po/id.po
+
+commit 945913ea3f9c1f802c97e6756a3425c61eea8523
+Author: Lucas Lommer <llommer@svn.gnome.org>
+Date:	2009-09-19
+
+    Update Czech translation
+
+M	po/cs.po
+
+commit 5b4e115582ac387f9783dc39830dc17787ae4086
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:	2009-09-18
+
+    maithili update
+
+M	po/mai.po
+
+commit 6bc2645122fb56da0f6e09b50c7e06187789d5b0
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:	2009-09-18
+
+    maithili update
+
+M	po/LINGUAS
+A	po/mai.po
+
+commit ad7f73fc71f78fbc2c2e757915f8c6f036ad5854
+Author: Niels-Christoph Fiedler <linux@medienkompanie.de>
+Date:	2009-09-16
+
+    Added German translation
+
+M	po/LINGUAS
+A	po/nds.po
+
+commit 9e01eb0ee5c41e65969b38312df93712bfdaa1c9
+Author: Miloš Popović <mpopovic@src.gnome.org>
+Date:	2009-09-16
+
+    Updated Serbian translation
+
+M	po/sr.po
+M	po/sr@latin.po
+
+commit f020ad89ccda3ac080752094ec223e72bb7cc637
+Author: Gianvito Cavasoli <gianvito@gmx.it>
+Date:	2009-09-13
+
+    Updated Italian translation
+
+M	po/it.po
+
+commit 8d348f5494282a2905475ffc3eb32ad90def16c8
+Author: A S Alam <aalam@users.sf.net>
+Date:	2009-09-13
+
+    Updating Translation for Punjabi
+
+M	po/pa.po
+
+commit f1ecbb02886829e70aee9ec57f81ed4dc44d574a
+Author: Ask H. Larsen <asklarsen@gmail.com>
+Date:	2009-09-13
+
+    Updated Danish translation
+
+M	po/da.po
+
+commit cb4ffb009350d856b86a662732f9dd844b542950
+Author: Philip Withnall <philip@tecnocode.co.uk>
+Date:	2009-09-13
+
+    Updated British English translation
+
+M	po/en_GB.po
+
+commit 68c1a58d454f6b771f73e1cdbb2e7c7c3b208803
+Author: Jamil Ahmed <itsjamil@gmail.com>
+Date:	2009-09-12
+
+    Updated Bengali translation
+
+M	po/bn.po
+
+commit 62b0be0a94c2d1b8b6dc35b14b01f3776b8548b7
+Author: Aron Xu <aronxu@gnome.org>
+Date:	2009-09-11
+
+    Updated zh_CN.po
+
+M	po/zh_CN.po
+
+commit 86045cf229422dd187b45ae8969d210c518980e7
+Author: Maxim V. Dziumanenko <dziumanenko@gmail.com>
+Date:	2009-09-11
+
+    Updated Ukrainian translation
+
+M	po/uk.po
+
+commit 59f1c3207ae18d1b2fd579c33fbf2c7f8b558fd3
+Author: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+Date:	2009-09-10
+
+    Updated Romanian translation
+
+M	po/ro.po
+
+commit ae6350e75aa78e0ad14bd97e34ec8bdfa526d7a6
+Author: Matej Urbančič <mateju@svn.gnome.org>
+Date:	2009-09-10
+
+    Updated Slovenian translation
+
+M	po/sl.po
+
+commit da915f7f22ce246b91d5038f4c51937cde9d9a33
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-09-09
+
+    [build] Generate bzip2 tarballs and use foreign automake option
+
+M	configure.ac
+
+commit 68ad340b17419f91077609e9dc5cc85717e57b91
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-09-09
+
+    [release] post-release bump to 2.28.0
+
+M	configure.ac
+
+commit 1943640abc390692d936107b569af12b1a653af3
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-09-09
+
+    [release] 2.27.92
+
+M	NEWS
+M	README
+
+commit 6e7e7b450719652a78cfcd6d3d049cc4b17dde9e
+Author: Christian Kirbach <Christian.Kirbach@googlemail.com>
+Date:	2009-09-03
+
+    Updated German translation
+
+M	po/de.po
+
+commit a8bb923721b355b2f6e51d32a93987e9fbdde081
+Author: Mark Krapivner <mark125@gmail.com>
+Date:	2009-09-02
+
+    Updated Hebrew translation
+
+M	po/he.po
+
+commit 5a64e0a0fbf2d855042fc1fa659a63cb94486c8d
+Author: Denis Arnaud <darnaud@src.gnome.org>
+Date:	2009-09-01
+
+    Updated breton translation
+
+M	po/br.po
+
+commit a647360e0567593f7febe9beade541780ae0daad
+Author: krishnababu k <kkrothap@redhat.ocm>
+Date:	2009-08-31
+
+    Updated Telugu Translations
+
+M	po/te.po
+
+commit e485aadb61d2825eb8f5226090d6601f1a125eff
+Author: Sandeep Shedmake <sshedmak@redhat.com>
+Date:	2009-08-31
+
+    Updated Marathi Translations
+
+M	po/mr.po
+
+commit 64dd907b43e5912c52d1c32c42474678bfe07dbc
+Author: Runa Bhattacharjee <runab@redhat.com>
+Date:	2009-08-31
+
+    Updated Bengali India Translations
+
+M	po/bn_IN.po
+
+commit 2f75eff6ca9ecf69b95e81a74d4cea86a7fb4675
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:	2009-08-31
+
+    hindi updated by Rajesh Ranjan
+
+M	po/hi.po
+
+commit 271972b24b427add056a8445e6eeccacc5074e1c
+Author: Denis Arnaud <darnaud@src.gnome.org>
+Date:	2009-08-31
+
+    Updated breton translation
+
+A	po/br.po
+
+commit 75e69263f658278a339c23180fa60f25ff51118c
+Author: Denis Arnaud <darnaud@src.gnome.org>
+Date:	2009-08-31
+
+    Added br in LINGUAS
+
+M	po/LINGUAS
+
+commit f9072e1b5cff5e7d453c52e4ae490590c61a91ef
+Author: Tomasz Dominikowski <dominikowski@gmail.com>
+Date:	2009-08-29
+
+    Updated Polish translation
+
+M	po/pl.po
+
+commit d9f7f620fc36db7fd524a5ed2a53aad1b551bf19
+Author: Gabor Kelemen <kelemeng@gnome.hu>
+Date:	2009-08-29
+
+    Hungarian translation updated
+
+M	po/hu.po
+
+commit d76950c1b192d5db3e6f046f8269d5dcd3352785
+Author: Alexander Nyakhaychyk <nyakhaychyk@gmail.com>
+Date:	2009-08-27
+
+    Updated Belarusian translation
+
+M	po/be.po
+
+commit be7f7b33f20657f71dada23cb8025709322c21ad
+Author: Ani <peter.ani@gmail.com>
+Date:	2009-08-26
+
+    Updated Malayalam Translations
+
+M	po/ml.po
+
+commit ad8c2e2dfdbc5c859e6e982110c3ac7c512b0ce5
+Author: Amitakhya Phukan <aphukan@fedoraproject.org>
+Date:	2009-08-26
+
+    Updating Assamese translations
+
+M	po/as.po
+
+commit 1b40f55f379c446487806e640b1ac32f4a61b34d
+Author: Inaki Larranaga Murgoitio <dooteo@zundan.com>
+Date:	2009-08-26
+
+    Updated Basque language
+
+M	po/eu.po
+
+commit d5d2db0554b235f725aaada5d8adf3e4ba625744
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-08-25
+
+    [release] post-release bump to 2.27.92
+
+M	configure.ac
+
+commit 8ff5925bd7e41c5ea07d27236d5048b27a3fc4e3
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-08-25
+
+    [release] 2.27.91
+
+M	NEWS
+M	README
+M	configure.ac
+
+commit b79e363cb69a770e48b0780742cbd27eb04c5923
+Author: Frédéric Péters <fpeters@0d.be>
+Date:	2009-08-22
+
+    Remove deprecated Encoding key from desktop file
+
+M	data/pessulus.desktop.in.in
+
+commit fc3c3cfb75567cf1b177cc4cdba429d75229c3cb
+Author: ifelix <ifelix@redhat.com>
+Date:	2009-08-25
+
+    Updated Tamil Translations
+
+M	po/ta.po
+
+commit b38df366d965c4fa81bada298319356d35dac4fb
+Author: Baris Cicek <baris@teamforce.name.tr>
+Date:	2009-08-25
+
+    Updated Turkish translation.
+
+M	po/tr.po
+
+commit 88aa224cf37efa6e8c07c7dfc036ea4247148ef2
+Author: Gil Forcada <gforcada@gnome.org>
+Date:	2009-08-24
+
+    Updated Catalan translation
+
+M	po/ca.po
+
+commit fadb33f1cd24fc778dbde669d83809d604dd3453
+Author: Manoj Kumar Giri <mgiri@mgiri.csb>
+Date:	2009-08-24
+
+    Updated Oriya Translation
+
+M	po/or.po
+
+commit 65a6f772043169fd672b2b72ab28fbb3c823749b
+Author: Shankar Prasad <svenkate@redhat.com>
+Date:	2009-08-24
+
+    Updated Kannada(kn) translation
+
+M	po/kn.po
+
+commit 609674bcaade797642efe3f0c86f6020afcaceea
+Author: Sweta Kothari <swkothar@redhat.com>
+Date:	2009-08-24
+
+    Updated Gujarati Translations
+
+M	po/gu.po
+
+commit 27f0e1e43e5f21dbbb155782625f339eacc64dea
+Author: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>
+Date:	2009-08-24
+
+    Updated Traditional Chinese translation(Hong Kong and Taiwan)
+
+M	po/zh_HK.po
+M	po/zh_TW.po
+
+commit 3dd0cae801a2a035ab16fb69a8915f5bede52794
+Author: Theppitak Karoonboonyanan <thep@linux.thai.net>
+Date:	2009-08-23
+
+    Updated Thai translation.
+
+M	po/th.po
+
+commit c1db2f112f1c484245153134a50ef0c1d349dbb8
+Author: Duarte Loreto <happyguy_pt@hotmail.com>
+Date:	2009-08-23
+
+    Updated Portuguese translation
+
+M	po/pt.po
+
+commit 6d53c4a01cad6a90c7d90835e2ff5c1d4c11ccca
+Author: Khaled Hosny <khaledhosny@eglug.org>
+Date:	2009-08-21
+
+    Updated Arabic translation
+
+M	po/ar.po
+
+commit 9f3b0a12d28474291320dea990a8c555c6044015
+Author: Kjartan Maraas <kmaraas@gnome.org>
+Date:	2009-08-21
+
+    Added Norwegian bokmål translation.
+
+M	po/nb.po
+
+commit ca7ea1040842121883500a37840e314c0e40d04c
+Author: Claude Paroz <claude@2xlibre.net>
+Date:	2009-08-19
+
+    Updated French translation
+
+M	po/fr.po
+
+commit 28d84cf63b070e8449974fa94b593f099757f473
+Author: Antón Méixome <meixome@mancomun.org>
+Date:	2009-08-17
+
+    Updated Galician Translation
+
+M	po/gl.po
+
+commit 67a93d6bccf925a85b6fe95292733ed2a5264d46
+Author: Laurent Dhima <laurenti@alblinux.net>
+Date:	2009-08-14
+
+    Updated Albanian translation
+
+M	po/sq.po
+
+commit 8e2b5ceb8a74b29ba48ce3a8badcc31cec267e63
+Author: Tommi Vainikainen <thv@iki.fi>
+Date:	2009-08-14
+
+    Updated Finnish translation
+
+M	po/fi.po
+
+commit 2d52e2dc80cf7ebf146365795455966e3ca8d6d5
+Author: Jorge González <jorgegonz@svn.gnome.org>
+Date:	2009-08-13
+
+    Updated Spanish translation
+
+M	po/es.po
+
+commit 7835af04589450a3b5f82e7d67bfdd801c8bb786
+Author: Alexander Shopov <ash@contact.bg>
+Date:	2009-08-13
+
+    Updated Bulgarian translation
+
+M	po/bg.po
+
+commit 3a360bea93ee22f1e9e8b31a95fe741882e1faf0
+Author: Leonardo Ferreira Fontenelle <leonardof@gnome.org>
+Date:	2009-08-12
+
+    Updated Brazilian Portuguese translation.
+
+M	po/pt_BR.po
+
+commit dbe2b6ec1bbd50dda9c636c65ad9df954579541f
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-08-12
+
+    [pessulus] Update to use the right key for disable_lock_screen
+
+M	Pessulus/maindialog.py
+
+commit d1d693bd7d54f3715e058dba73f56c64b1c70c7c
+Author: Ivar Smolin <okul@linux.ee>
+Date:	2009-08-12
+
+    Updating Estonian translation
+
+M	po/et.po
+
+commit 7263f246d5b0407b5a31f8293204bc9bfaed230a
+Author: Andre Klapper <a9016009@gmx.de>
+Date:	2009-08-11
+
+    Update Czech translation.
+
+M	po/cs.po
+
+commit 5a38c0e1f689ec2111d8cc552bb12b07859c71cf
+Author: Iestyn Pryce <dylunio@gmail.com>
+Date:	2009-08-11
+
+    Updated Welsh translation
+
+M	po/cy.po
+
+commit 71402efa6979d887d72edf82250930bdd0addd96
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-08-11
+
+    [build] Update POTFILES.in
+
+M	po/POTFILES.in
+
+commit 28d0bb46ff000b7805f6d41b724b8b713264a5a9
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-08-11
+
+    [pessulus] Port to GtkBuilder
+
+M	Pessulus/Makefile.am
+M	Pessulus/config.py.in
+M	Pessulus/lockdownbutton.py
+M	Pessulus/main.py
+M	Pessulus/maindialog.py
+M	data/Makefile.am
+D	data/pessulus.glade
+A	data/pessulus.ui
+
+commit 013cbc3b8cfa9e8f0aca3f345f98f9a73cdd3d6a
+Author: Inaki Larranaga Murgoitio <dooteo@zundan.com>
+Date:	2009-08-10
+
+    Updated Basque language
+
+M	po/eu.po
+
+commit 9df2994034700e34c9def8b6a45264810b739aaa
+Author: Khaled Hosny <khaledhosny@eglug.org>
+Date:	2009-08-08
+
+    Updated Arabic translation
+
+M	po/ar.po
+
+commit b7ce4cad35f2dbf891f67c4abc581806888867b6
+Author: Antón Méixome <meixome@mancomun.org>
+Date:	2009-08-06
+
+    Updated Galician Translation
+
+M	po/gl.po
+
+commit f6d128f6465d4968e0e1583747eb219a66e473a8
+Author: Fabrício Godoy <skarllot@gmail.com>
+Date:	2009-08-06
+
+    Fixed typo in Brazilian Portuguese translation.
+
+M	po/pt_BR.po
+
+commit a48854c1f7f7508df6cb3dbb3fe62cc346e373e5
+Author: Krix Apolinário <krixapolinario@gmail.com>
+Date:	2009-08-05
+
+    Updated Brazilian Portuguese translation.
+
+M	po/pt_BR.po
+
+commit 9e7d32892cfbe6bd7eaa750be09e501bc345493b
+Author: Iestyn Pryce <dylunio@gmail.com>
+Date:	2009-08-05
+
+    Updated Welsh translation
+
+M	po/cy.po
+
+commit a19ce2c4b1e5bedfeee757710793e5e3a06a8b7c
+Author: Jorge González <jorgegonz@svn.gnome.org>
+Date:	2009-08-04
+
+    Updated Spanish translation
+
+M	po/es.po
+
+commit e02f4391c6d71e39658f45635cc57e906baf56ca
+Author: Kjartan Maraas <kmaraas@gnome.org>
+Date:	2009-08-03
+
+    Updated Norwegian bokmål translation.
+
+M	po/nb.po
+
+commit e23e1adc31f2b2a64368f6eafa33ab76155832ce
+Author: fujianwzh <fujianwzh@gmail.com>
+Date:	2009-07-30
+
+    Updated Simplified Chinese translation.
+
+M	po/zh_CN.po
+
+commit 26f7486bc50da8747523d6a42f6e9d71eeb902dd
+Author: Gil Forcada <gforcada@gnome.org>
+Date:	2009-07-29
+
+    Added ast to LINGUAS
+
+M	po/LINGUAS
+
+commit 92d7d41e68ac70d3fd51a8e552f5aea8ed7a51ff
+Author: Mikel González <dangerous_piper@softastur.org>
+Date:	2009-07-29
+
+    Added Asturian translation
+
+A	po/ast.po
+
+commit a9055b37a4bd87d213d86b010917025e700b04d7
+Author: Ivar Smolin <okul@linux.ee>
+Date:	2009-07-29
+
+    Updating Estonian translation
+
+M	po/et.po
+
+commit 3a1337e3b5395613984c12ec35d752e1cbaed656
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-29
+
+    [misc] Update commit guidelines for referencing bugs
+
+M	ChangeLog
+
+commit 1dc42df2d8800c600300e69bf8bf0860ff3af1bb
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [pessulus] Use icon-name attribute for gtk.CellRendererPixbuf
+
+    The code was still using pixbufs. This lets us remove quite some code,
+    especially to load icons.
+
+    Note that we don't support icons that are specified with an absolute
+    path anymore, but this wasn't used anyway.
+
+M	Pessulus/disabledapplets.py
+M	Pessulus/icons.py
+M	Pessulus/maindialog.py
+
+commit df53b4bff7c7dcad52279a062a07fbe48da1c01b
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [pessulus] Stop using deprecated GtkTooltips API
+
+M	Pessulus/globalvar.py
+M	Pessulus/lockdownbutton.py
+M	Pessulus/lockdowncheckbutton.py
+M	Pessulus/maindialog.py
+
+commit 92f8b64bf31fc9bcd1a4d9e7bd528c7815d48676
+Author: Daniel Nylander <po@danielnylander.se>
+Date:	2009-07-28
+
+    Updated Swedish translation
+
+M	po/sv.po
+
+commit 1b12b17cb9354881448c5707873c78f69704a22c
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [release] post-release bump to 2.27.90
+
+M	configure.ac
+
+commit 2a7b7ac0b73459e1945d0f513cc121975c470ddd
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [release] 2.27.5
+
+M	NEWS
+M	README
+M	configure.ac
+
+commit d580f7b74a8b3c5fb5f6d342768494c979924c91
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [build] Fix autogen.sh failing because of missing m4 directory
+
+M	autogen.sh
+
+commit 8bff1c4a58eae9add62cf17b44dea859b8299565
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-28
+
+    [pessulus] Use gtk.show_uri() and remove gnome-python requirement
+
+    Closes: http://bugzilla.gnome.org/show_bug.cgi?id=572357
+    Closes: http://bugzilla.gnome.org/show_bug.cgi?id=530882
+
+M	Pessulus/main.py
+M	Pessulus/maindialog.py
+M	configure.ac
+
+commit ddc014410c2eed4f9fd1319c01d0bdddaf7d89b1
+Author: Iestyn Pryce <dylunio@gmail.com>
+Date:	2009-07-26
+
+    Update Welsh translation. Fixes bug #589751.
+
+M	po/cy.po
+
+commit 876905a85a4cc2d570032a17cf756c0c69ce8095
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-21
+
+    [build] Set m4/ as macro dir
+
+M	Makefile.am
+M	configure.ac
+
+commit 860b49bad357120d9ced9924a717e05735a1d2ca
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-07-21
+
+    [build] Use silent-rules for quiet build
+
+M	Makefile.am
+M	Pessulus/Makefile.am
+M	configure.ac
+
+commit 04bb731e9ab6d71db9e65b21bd8a1760b37e684f
+Author: Alexander Nyakhaychyk <nyakhaychyk@gmail.com>
+Date:	2009-07-20
+
+    Updated Belarusian translation
+
+M	po/be.po
+
+commit a331377b62228bef474b1778dcd868edc374c523
+Author: Khaled Hosny <khaledhosny@eglug.org>
+Date:	2009-07-11
+
+    Updated Arabic translation
+
+M	po/ar.po
+
+commit c6e8d4cd8f756428f6f249eecc0879d2e6ec700a
+Author: Maxim V. Dziumanenko <dziumanenko@gmail.com>
+Date:	2009-06-30
+
+    Updated Ukrainian translation
+
+M	po/uk.po
+
+commit 3ba24567542a46a94d883c35cef652c9b653283b
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-06-30
+
+    [release] post-release bump to 2.26.3
+
+M	configure.ac
+
+commit a4789ace6e7713a7bd07066d69fca886be33908f
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-06-30
+
+    [release] 2.26.2
+
+M	NEWS
+M	README
+
+commit 1bbcc5ba4977a355315eb426df975c714a6ef6df
+Author: Marcel Telka <marcel@telka.sk>
+Date:	2009-05-20
+
+    Updated Slovak translation
+
+M	po/sk.po
+
+commit f03aa680cb561549c0625d1ffde25f70fee07d16
+Author: Socratis Vavilis <s_vavilis@yahoo.fr>
+Date:	2009-05-08
+
+    Updated Greek translation
+
+M	po/el.po
+
+commit 37981ba92c27c956395a4d9f27cea8b138314479
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-05-02
+
+    Update commit messages guidelines
+
+M	ChangeLog
+
+commit 158877fba9bf7bb57525e6430efafe16ca718597
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-27
+
+    Update MAINTAINERCLEANFILES
+
+    Add configure, remove intltool-*.in (shouldn't be here in the first
+    place, see lp#367259) and .gitignore (handled by git.mk).
+
+M	Makefile.am
+
+commit efd37c671fadaaf873a08d4a5c4e055fafb0e17c
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-27
+
+    Update git.mk from pango
+
+M	git.mk
+
+commit 327589adb129732cbea7003d967d414377860a64
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-24
+
+    Use git.mk from pango to autogenerate .gitignore files
+
+M	Makefile.am
+M	Pessulus/Makefile.am
+M	data/Makefile.am
+A	git.mk
+
+commit 2afe793d6fc3ea11d5fcc7ebd6c5f08d93ccd5fe
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-27
+
+    Remove .cvsignore files
+
+D	.cvsignore
+D	Pessulus/.cvsignore
+D	data/.cvsignore
+D	po/.cvsignore
+
+commit 8f8569e2b80aef8f60901fae56ab0df255957b0c
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-26
+
+    Fix doap file to have mail address as URL (mailto:)
+
+M	pessulus.doap
+
+commit 63a4c182082c02f7e827c4ca24380cd804013a5c
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-24
+
+    Make autogen.sh more modern.
+
+M	autogen.sh
+
+commit 4c169152d4dfb6b012bea5b950eeabe5d458903f
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-22
+
+    Add doap file
+
+A	pessulus.doap
+
+commit 17905656f5d6a67c65e1bf239d39c0ecff550a69
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-22
+
+    Rename ChangeLog files to ChangeLog.pre-git
+
+M	ChangeLog
+C100	ChangeLog	ChangeLog.pre-git
+R100	po/ChangeLog	po/ChangeLog.pre-git
+
+commit 28d25ce00a7deb976973c8e8a97e934111a8aa8e
+Author: Miquel Esplà <miquelespla@gmail.com>
+Date:	2009-04-21
+
+    Added Valencian-Catalan translation
+
+M	po/LINGUAS
+A	po/ca@valencia.po
+
+commit 4ccb91d950eff1ee3963625206ee5cbb39bbadf5
+Author: Zabeeh Khan <zabeehkhan@gmail.com>
+Date:	2009-04-20
+
+    Committing Pashto Translations as per request made by Zabeeh Khan
+    in gnome-i18n list
+
+M	po/ps.po
+
+commit ec7f0079edf54cd214122f0f4357e1220fb9896c
+Author: Shankar Prasad <sprasad@src.gnome.org>
+Date:	2009-04-14
+
+    updated kn.po and ChangeLog
+
+    svn path=/trunk/; revision=466
+
+M	po/ChangeLog
+M	po/kn.po
+
+commit 6b52347fc1913d4764e66d2593eaf3f7b12c7b00
+Author: Vincent Untz <vuntz@gnome.org>
+Date:	2009-04-13
+
+    post-release bump to 2.26.2.
+
+    2009-04-14	Vincent Untz  <vuntz@gnome.org>
+
+	* configure.ac: post-release bump to 2.26.2.
+
+    svn path=/trunk/; revision=465
+
+M	ChangeLog
+M	configure.ac
+M	po/ChangeLog

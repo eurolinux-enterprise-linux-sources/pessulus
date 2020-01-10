@@ -1,0 +1,15 @@
+# List of source files containing translatable strings.
+# Please keep this list in alphabetic order.
+data/pessulus.desktop.in.in
+[type: gettext/glade]data/pessulus.ui
+Pessulus/disabledapplets.py
+Pessulus/globalvar.py
+Pessulus/icons.py
+Pessulus/lockdownappliergconf.py
+Pessulus/lockdownapplier.py
+Pessulus/lockdownbutton.py
+Pessulus/lockdowncheckbutton.py
+Pessulus/maindialog.py
+Pessulus/main.py
+Pessulus/safeprotocols.py
+Pessulus/simpleeditabletreeview.py
